@@ -20,6 +20,17 @@
     ]
   },
   {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Bracket Sequences",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 104,
     "title": "Maximum Depth of Binary Tree",
     "title_slug": "maximum-depth-of-binary-tree",
