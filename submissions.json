@@ -9,6 +9,17 @@
     ]
   },
   {
+    "id": 13,
+    "title": "Roman to Integer",
+    "title_slug": "roman-to-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 104,
     "title": "Maximum Depth of Binary Tree",
     "title_slug": "maximum-depth-of-binary-tree",
