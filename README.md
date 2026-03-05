@@ -18,3 +18,4 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | `Greedy` `String` |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |

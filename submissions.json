@@ -123,5 +123,15 @@
       "Greedy",
       "String"
     ]
+  },
+  {
+    "id": 1929,
+    "title": "Concatenation of Array",
+    "title_slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
   }
 ]
