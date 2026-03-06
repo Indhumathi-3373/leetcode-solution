@@ -125,6 +125,16 @@
     ]
   },
   {
+    "id": 1920,
+    "title": "Build Array from Permutation",
+    "title_slug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1929,
     "title": "Concatenation of Array",
     "title_slug": "concatenation-of-array",
