@@ -82,6 +82,16 @@
     ]
   },
   {
+    "id": 66,
+    "title": "Plus One",
+    "title_slug": "plus-one",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 104,
     "title": "Maximum Depth of Binary Tree",
     "title_slug": "maximum-depth-of-binary-tree",
