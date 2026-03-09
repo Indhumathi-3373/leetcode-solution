@@ -115,6 +115,16 @@
     ]
   },
   {
+    "id": 1295,
+    "title": "Find Numbers with Even Number of Digits",
+    "title_slug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
