@@ -125,6 +125,18 @@
     ]
   },
   {
+    "id": 1365,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
