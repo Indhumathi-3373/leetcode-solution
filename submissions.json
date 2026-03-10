@@ -104,6 +104,16 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
