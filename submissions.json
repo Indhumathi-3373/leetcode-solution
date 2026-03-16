@@ -112,6 +112,17 @@
     ]
   },
   {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "title_slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 88,
     "title": "Merge Sorted Array",
     "title_slug": "merge-sorted-array",

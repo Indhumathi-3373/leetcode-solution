@@ -17,6 +17,7 @@
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` `Newton's Method` |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
