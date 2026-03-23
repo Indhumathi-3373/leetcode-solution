@@ -256,6 +256,17 @@
     ]
   },
   {
+    "id": 258,
+    "title": "Add Digits",
+    "title_slug": "add-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 349,
     "title": "Intersection of Two Arrays",
     "title_slug": "intersection-of-two-arrays",
