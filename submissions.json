@@ -278,6 +278,16 @@
     ]
   },
   {
+    "id": 326,
+    "title": "Power of Three",
+    "title_slug": "power-of-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 349,
     "title": "Intersection of Two Arrays",
     "title_slug": "intersection-of-two-arrays",
