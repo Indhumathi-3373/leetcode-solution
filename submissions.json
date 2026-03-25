@@ -301,6 +301,16 @@
     ]
   },
   {
+    "id": 724,
+    "title": "Find Pivot Index",
+    "title_slug": "find-pivot-index",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 867,
     "title": "Transpose Matrix",
     "title_slug": "transpose-matrix",
