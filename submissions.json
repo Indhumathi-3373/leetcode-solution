@@ -222,6 +222,16 @@
     ]
   },
   {
+    "id": 190,
+    "title": "Reverse Bits",
+    "title_slug": "reverse-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer"
+    ]
+  },
+  {
     "id": 202,
     "title": "Happy Number",
     "title_slug": "happy-number",
