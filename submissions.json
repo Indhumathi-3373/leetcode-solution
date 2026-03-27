@@ -298,6 +298,17 @@
     ]
   },
   {
+    "id": 342,
+    "title": "Power of Four",
+    "title_slug": "power-of-four",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 349,
     "title": "Intersection of Two Arrays",
     "title_slug": "intersection-of-two-arrays",
