@@ -288,6 +288,15 @@
     ]
   },
   {
+    "id": 263,
+    "title": "Ugly Number",
+    "title_slug": "ugly-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 326,
     "title": "Power of Three",
     "title_slug": "power-of-three",
