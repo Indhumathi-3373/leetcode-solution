@@ -331,6 +331,16 @@
     ]
   },
   {
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 414,
     "title": "Third Maximum Number",
     "title_slug": "third-maximum-number",
