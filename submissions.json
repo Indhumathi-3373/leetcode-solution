@@ -297,6 +297,20 @@
     ]
   },
   {
+    "id": 292,
+    "title": "Nim Game",
+    "title_slug": "nim-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Brainteaser",
+      "Game Theory",
+      "Impartial Game",
+      "Math",
+      "Minimax",
+      "Nim Game"
+    ]
+  },
+  {
     "id": 326,
     "title": "Power of Three",
     "title_slug": "power-of-three",
