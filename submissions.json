@@ -375,6 +375,15 @@
     ]
   },
   {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "title_slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 724,
     "title": "Find Pivot Index",
     "title_slug": "find-pivot-index",
