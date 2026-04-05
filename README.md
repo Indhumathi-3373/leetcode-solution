@@ -37,6 +37,7 @@
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game) | Easy | `Brainteaser` `Game Theory` `Impartial Game` `Math` `Minimax` `Nim Game` |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | `Math` `Recursion` |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | `Bit Manipulation` `Math` `Recursion` |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
