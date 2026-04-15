@@ -44,6 +44,7 @@
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
+| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | `Array` `Math` |

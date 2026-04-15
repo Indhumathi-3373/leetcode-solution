@@ -405,6 +405,18 @@
     ]
   },
   {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "title_slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization",
+      "Recursion"
+    ]
+  },
+  {
     "id": 724,
     "title": "Find Pivot Index",
     "title_slug": "find-pivot-index",
