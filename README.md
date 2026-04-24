@@ -54,3 +54,4 @@
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | `Greedy` `String` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | `Array` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
+| 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances) | Medium | `Array` `Hash Table` `Prefix Sum` |

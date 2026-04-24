@@ -512,5 +512,16 @@
       "Array",
       "Simulation"
     ]
+  },
+  {
+    "id": 2615,
+    "title": "Sum of Distances",
+    "title_slug": "sum-of-distances",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
   }
 ]
