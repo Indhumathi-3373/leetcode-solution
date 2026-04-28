@@ -106,6 +106,16 @@
     ]
   },
   {
+    "id": 29,
+    "title": "Divide Two Integers",
+    "title_slug": "divide-two-integers",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 35,
     "title": "Search Insert Position",
     "title_slug": "search-insert-position",
