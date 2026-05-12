@@ -525,6 +525,17 @@
     ]
   },
   {
+    "id": 1748,
+    "title": "Sum of Unique Elements",
+    "title_slug": "sum-of-unique-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1920,
     "title": "Build Array from Permutation",
     "title_slug": "build-array-from-permutation",
