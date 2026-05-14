@@ -579,5 +579,16 @@
       "Hash Table",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 2784,
+    "title": "Check if Array is Good",
+    "title_slug": "check-if-array-is-good",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
   }
 ]

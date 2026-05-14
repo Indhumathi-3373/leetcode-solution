@@ -60,3 +60,4 @@
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | `Array` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances) | Medium | `Array` `Hash Table` `Prefix Sum` |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
