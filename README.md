@@ -39,6 +39,7 @@
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game) | Easy | `Brainteaser` `Game Theory` `Impartial Game` `Math` `Minimax` `Nim Game` |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | `Math` `Recursion` |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | `Bit Manipulation` `Math` `Recursion` |
