@@ -179,6 +179,19 @@
     ]
   },
   {
+    "id": 75,
+    "title": "Sort Colors",
+    "title_slug": "sort-colors",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bubble Sort",
+      "Quicksort",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 88,
     "title": "Merge Sorted Array",
     "title_slug": "merge-sorted-array",
