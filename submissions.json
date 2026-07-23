@@ -689,6 +689,15 @@
     ]
   },
   {
+    "id": 2129,
+    "title": "Capitalize the Title",
+    "title_slug": "capitalize-the-title",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2395,
     "title": "Find Subarrays With Equal Sum",
     "title_slug": "find-subarrays-with-equal-sum",
