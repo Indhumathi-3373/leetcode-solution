@@ -72,5 +72,6 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | `String` |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum) | Easy | `Array` `Hash Table` |
+| 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |

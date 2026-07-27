@@ -708,6 +708,15 @@
     ]
   },
   {
+    "id": 2544,
+    "title": "Alternating Digit Sum",
+    "title_slug": "alternating-digit-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2615,
     "title": "Sum of Distances",
     "title_slug": "sum-of-distances",
