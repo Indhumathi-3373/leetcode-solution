@@ -76,3 +76,4 @@
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | Easy | `Array` `Hash Table` `Sorting` |
