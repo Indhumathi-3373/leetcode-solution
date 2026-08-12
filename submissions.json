@@ -587,6 +587,16 @@
     ]
   },
   {
+    "id": 704,
+    "title": "Binary Search",
+    "title_slug": "binary-search",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 717,
     "title": "1-bit and 2-bit Characters",
     "title_slug": "1-bit-and-2-bit-characters",
