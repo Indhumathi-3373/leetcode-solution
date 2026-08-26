@@ -760,6 +760,16 @@
     ]
   },
   {
+    "id": 2485,
+    "title": "Find the Pivot Integer",
+    "title_slug": "find-the-pivot-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2544,
     "title": "Alternating Digit Sum",
     "title_slug": "alternating-digit-sum",
