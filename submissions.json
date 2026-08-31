@@ -617,6 +617,15 @@
     ]
   },
   {
+    "id": 709,
+    "title": "To Lower Case",
+    "title_slug": "to-lower-case",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 717,
     "title": "1-bit and 2-bit Characters",
     "title_slug": "1-bit-and-2-bit-characters",
