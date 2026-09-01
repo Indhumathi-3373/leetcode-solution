@@ -665,6 +665,16 @@
     ]
   },
   {
+    "id": 771,
+    "title": "Jewels and Stones",
+    "title_slug": "jewels-and-stones",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 867,
     "title": "Transpose Matrix",
     "title_slug": "transpose-matrix",
