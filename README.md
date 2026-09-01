@@ -23,6 +23,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | `Array` `Binary Search` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | `String` |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` `Newton's Method` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
