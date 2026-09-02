@@ -554,6 +554,17 @@
     ]
   },
   {
+    "id": 383,
+    "title": "Ransom Note",
+    "title_slug": "ransom-note",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 387,
     "title": "First Unique Character in a String",
     "title_slug": "first-unique-character-in-a-string",
