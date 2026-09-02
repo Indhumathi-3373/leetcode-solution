@@ -3,6 +3,8 @@ name: LeetCode Synchronizer
 on:
   workflow_dispatch:
 
+permissions: write-all
+
 jobs:
   sync:
     runs-on: ubuntu-latest
